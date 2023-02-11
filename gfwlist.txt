@@ -1203,6 +1203,7 @@ amazonvideo.com
 amazonvideodirect.com
 amazonworkdocs.com
 amd.com
+amd.com.cn
 amdfanstore.com
 amdigital.co.uk
 ameba.jp
@@ -5543,6 +5544,7 @@ deutschewelle.h-cdn.com
 deutschsex.com
 dev-guardianapis.com
 dev-theguardian.com
+dev.to
 devcon.org
 developer-advisor.com
 developer.microsoft.com
